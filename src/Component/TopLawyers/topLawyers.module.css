@@ -1,0 +1,68 @@
+.topLawyersContainer {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.topLawyersContainer .lawyerThoughts {
+  margin: 20px 0;
+  width: 45%;
+}
+.topLawyersContainer .lawyerThoughts h2 {
+  font-size: 46px;
+  color: #2d0000;
+  font-weight: 400;
+  line-height: 1.4;
+  margin-bottom: 30px;
+}
+.topLawyersContainer .lawyerThoughts p {
+  font-size: 24px;
+  font-weight: 400;
+  color: #2d0000;
+  line-height: 1.4;
+}
+.topLawyersContainer .lawyerThoughts .thoughtText {
+  font-size: 18px;
+  color: #6b5a5a;
+  font-weight: 300;
+  line-height: 1.8;
+  margin-bottom: 40px;
+}
+.topLawyersContainer .lawyerThoughts .lawyerInfo {
+  font-size: 14px;
+  font-weight: 300;
+  color: #6b5a5a;
+}
+.topLawyersContainer .lawyerThoughts .lawyerInfo span {
+  font-size: 20px;
+  margin-bottom: 2px;
+  color: #2d0000;
+  font-weight: 400;
+}
+.topLawyersContainer .lawyerImage {
+  position: relative;
+}
+.topLawyersContainer .lawyerImage .lawyersExperience {
+  position: absolute;
+  bottom: -55px;
+  right: -35px;
+  background: #b40000;
+  text-align: center;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 0 25px;
+  line-height: 1.4;
+  padding-bottom: 20px;
+  width: 30%;
+}
+.topLawyersContainer .lawyerImage .lawyersExperience span {
+  font-size: 76px;
+  font-weight: 900;
+  margin-bottom: 5px;
+  display: block;
+}

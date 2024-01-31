@@ -1,0 +1,29 @@
+.whyChooseUse {
+  width: 50%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px 0;
+}
+.whyChooseUse h2 {
+  color: #b40000;
+  font-size: 24px;
+  line-height: 1.5;
+  margin-bottom: 27px;
+  font-weight: 400;
+}
+.whyChooseUse p {
+  font-weight: 400;
+  font-size: 24px;
+  color: #2d0000;
+}
+.whyChooseUse .whyChooseUseText {
+  color: #6b5a5a;
+  font-size: 18px;
+  font-weight: 300;
+  margin-bottom: 38px;
+}

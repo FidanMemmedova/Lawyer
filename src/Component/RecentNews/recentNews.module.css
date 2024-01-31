@@ -1,0 +1,32 @@
+.recentNews {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  box-sizing: border-box;
+  padding-top: 20px;
+}
+.recentNews h2 {
+  color: #2d0000;
+  font-size: 46px;
+  display: block;
+  font-weight: 400;
+  box-sizing: border-box;
+  line-height: 1.4;
+  margin: 20px 0;
+  padding-top: 20px;
+}
+.recentNews p{
+    color: #6B5A5A;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    padding-bottom: 20px;
+}
+
+.recentNews .recentNewsSummary {
+  display: flex;
+  justify-content: space-around;
+  gap: 25px;
+}
